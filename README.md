@@ -1,2 +1,2 @@
 # tools
-tools
+tools and resources
